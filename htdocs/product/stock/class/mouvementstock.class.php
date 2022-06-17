@@ -104,6 +104,7 @@ class MouvementStock extends CommonObject
 	public $inventorycode;
 	public $batch;
 
+	public $default_lang;
 
 	public $fields = array(
 		'rowid' =>array('type'=>'integer', 'label'=>'TechnicalID', 'enabled'=>1, 'visible'=>-1, 'notnull'=>1, 'position'=>10, 'showoncombobox'=>1),

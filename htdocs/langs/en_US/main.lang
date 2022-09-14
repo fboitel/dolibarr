@@ -281,6 +281,7 @@ DateReference=Reference date
 DateStart=Start date
 DateEnd=End date
 DateCreation=Creation date
+DateExpiration=Expiration date
 DateCreationShort=Creat. date
 IPCreation=Creation IP
 DateModification=Modification date
